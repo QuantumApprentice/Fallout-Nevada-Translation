@@ -48,7 +48,7 @@
 
 {160}{}{What do you know about the mine?}
 {161}{}{There are several small mines in the district, most of them were milked dry before the war. In fact, the ore deposits are not so big at all. That mine tunnel, near the village, leads straight to a still not depleted vein of rough uranite. When it is completely depleted, there will be nothing left to do there. So this settlement will eventually die out. If not now, then ten years from now, that's for sure.}
-{162}{}{How did the locals managed to work here, if the ore from the mine is radioactive?}
+{162}{}{How did the locals manage to work here, if the ore from the mine is radioactive?}
 
 {163}{}{Hmm. I asked myself the same question. And I have a few suggestions. Want to listen?}
 {164}{}{Yes, please.}
